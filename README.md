@@ -213,7 +213,7 @@ The solution reduced manual intervention by automatically restarting the failed 
 
 ### Canary Recovered
 
-![Canary Recovered](screenshots/CanaryRecovered.png)
+![Canary Recovered](screenshots/Canary-Recovered.png)
 
 ### Alarm Recovered
 
