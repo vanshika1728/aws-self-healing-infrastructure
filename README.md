@@ -157,3 +157,69 @@ The solution reduced manual intervention by automatically restarting the failed 
 * Automated incident remediation
 * SRE self-healing infrastructure concepts
 
+## Project Walkthrough
+
+### EC2 Instance Running
+
+![EC2](screenshots/EC2-Instance-Running.png)
+
+### Website Healthy
+
+![Website Healthy](screenshots/Website-Healthy.png)
+
+### Canary Passed
+
+![Canary Passed](screenshots/Canary-Passed.png)
+
+### Alarm OK
+
+![Alarm OK](screenshots/Alarm-Ok.png)
+
+### EventBridge Rule
+
+![EventBridge](screenshots/EventBridge-Rule.png)
+
+### Lambda Function
+
+![Lambda](screenshots/Lambda-Function.png)
+
+### SSM Managed Node
+
+![SSM Node](screenshots/SSM-Managed-Node.png)
+
+### Website Failure
+
+![Website Failed](screenshots/Website-Failed.png)
+
+### Canary Failure Detection
+
+![Canary Failed](screenshots/Canary-Failed.png)
+
+### Alarm Triggered
+
+![Alarm Triggered](screenshots/Alarm-Triggered.png)
+
+### Lambda Invocation
+
+![Lambda Invoked](screenshots/Lambda-Invoked.png)
+
+### SSM Automated Remediation
+
+![SSM Remediation](screenshots/SSM-Remediation.png)
+
+### Website Recovered
+
+![Website Recovered](screenshots/Website-Recovered.png)
+
+### Canary Recovered
+
+![Canary Recovered](screenshots/CanaryRecovered.png)
+
+### Alarm Recovered
+
+![Alarm Recovered](screenshots/Alarm-Recovered.png)
+
+### CloudWatch Dashboard
+
+![Dashboard](screenshots/Cloudwatch-Dashboard.png)
+
